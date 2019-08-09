@@ -1,4 +1,4 @@
 # the repo. Unless a later match takes precedence,
 # Listed users will be requested for review when someone opens a pull request.
 
-/test/ @tetianakravchenko
+/test/*	@tetianakravchenko
